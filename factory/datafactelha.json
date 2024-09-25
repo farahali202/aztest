@@ -1,0 +1,9 @@
+{
+	"name": "datafactelha",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d24503c6-5738-447e-bc2c-577cd0531b22",
+		"tenantId": "69dea1ec-c165-4d12-bd12-cbf09d249cf7"
+	}
+}
